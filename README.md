@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubhang0802/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
